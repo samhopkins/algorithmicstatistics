@@ -14,9 +14,9 @@
 
 | Lecture number | Date     | Lecture topic                                                                                | Notes | Video |
 | -------------- | -------- | -------------------------------------------------------------------------------------------- | ----- | ----- |
-| 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](lecture-1-introduction.pdf)]       |       |
+| 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](lecture-1-introduction.pdf)       |       |
 | 2              | 9/8/25   | overview, linear and logistic regression, start sparse regression                            | [draft](lecture-2-overview-and-linear-predictors.pdf)      |       |
-| 3              | 9/10/25  | sparse regression, compressed sensing                                                        | [Moitra book](https://www.cambridge.org/core/books/algorithmic-aspects-of-machine-learning/165FD1899783C6D7162235AE405685DB), Ch. 5]      |       |
+| 3              | 9/10/25  | sparse regression, compressed sensing                                                        | [Moitra book](https://www.cambridge.org/core/books/algorithmic-aspects-of-machine-learning/165FD1899783C6D7162235AE405685DB), Ch. 5      |       |
 | 4              | 9/15/25  | learning a gaussian and a product distribution -- tv versus parameter learning               |       |       |
 | 5              | 9/17/25  | introduction to MRFs, ising uniformity testing                                               |       |       |
 | 6              | 9/22/25  | tree-structured graphical models I -- belief propagation                                     |       |       |
