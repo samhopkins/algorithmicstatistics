@@ -8,7 +8,7 @@
 - Location: 32-124
 - Anouncements: Piazza and Canvas
 - Refer to: Piazza (all questions), [Canvas](https://canvas.mit.edu/courses/34084) (announcements), [Gradescope](https://www.gradescope.com/courses/1107892) (homework release, submission, and grades).
-- [Syllabus](syllabus.pdf)
+- [Syllabus](resources/syllabus.pdf)
 
 ### Instructor
 - [Sam Hopkins](https://www.samuelbhopkins.com)
@@ -25,8 +25,8 @@
 
 | Lecture number | Date     | Lecture topic                                                                                | Notes | Video | Due dates |
 | -------------- | -------- | -------------------------------------------------------------------------------------------- | ----- | ----- | --------- |
-| 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](lecture-1-introduction.pdf) |       |           |
-| 2              | 9/8/25   | overview, linear and logistic regression, start sparse regression                            | [draft](lecture-2-overview-and-linear-predictors.pdf) |       |           |
+| 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](resources/lectures/lecture-1-introduction.pdf) |       |           |
+| 2              | 9/8/25   | overview, linear and logistic regression, start sparse regression                            | [draft](resources/lectures/lecture-2-overview-and-linear-predictors.pdf) |       |           |
 | 3              | 9/10/25  | sparse regression, compressed sensing                                                        | [Moitra book](https://www.cambridge.org/core/books/algorithmic-aspects-of-machine-learning/165FD1899783C6D7162235AE405685DB), Ch. 5 |       | **PSET 1 out** |
 | 4              | 9/15/25  | learning a gaussian and a product distribution -- tv versus parameter learning               |       |       |           |
 | 5              | 9/17/25  | introduction to MRFs, ising uniformity testing                                               |       |       |           |
