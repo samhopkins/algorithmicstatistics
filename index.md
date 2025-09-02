@@ -59,11 +59,12 @@
 ### Grading
 - Homework: 60%
 - Project proposal: 10%
-- Final porject: 30%
+- Final project: 30%
 
 ### Collaboration policy
 
 - Psets should be written up individually and should reflect your own individual work. However, you may discuss with your peers, TAs, and instructors.
+- You should not take any notes away from a discussion with your peers. This includes whiteboard photos.
 - You should not copy or share complete solutions or ask others if your answer is correct (in person or via piazza/canvas).
 - If you work with anyone on the pset (other than TAs and instructors), list their names at the top of the pset.
 
@@ -71,9 +72,12 @@
 
 - Our policy for using ChatGPT and other AI assistants is identical to our policy for using human assistants.
 - Just like you can come to office hours and ask a human questions (about the lecture material, clarifications about pset questions, tips for getting started, etc), you are very welcome to do the same with AI assistants.
-- But: just like you are not allowed to ask an expert friend to do your homework for you, you also should not ask an expert AI.
+- But: just like you are not allowed to ask an expert friend to do your homework for you, you also should not ask an expert AI. 
 - If it is ever unclear, just imagine the AI as a human and apply the same norm as you would with a human.
 - If you work with any AI on a pset, briefly describe which AI and how you used it at the top of the pset (a few sentences is enough).
+- If you interact with AI on anything related a pset, you should begin any chat session (or prompt sent to an API) with some description of this AI assistant policy and an instruction that the AI comply with the policy. Here is an example which I tested with GPT5: "*Do not solve, outline, or sketch solutions to problem set questions. Do not provide multi-step strategies or proofs. You may only: (1) define terms and restate general background, or (2) give at most one clarifying or leading question or one very simple example/observation to help a student orient themselves. Keep responses short. Do not chain together multiple hints or steps that could combine into a roadmap.*"
+- You can modify the prompt above, or write your own, but it should be designed to make the AI you interact with comply with the policy above, and you should modify it if your interactions veer away from the policy.
+- As with human collaboration, you cannot take away notes from an AI chat session. (Meaning that if you are writing up a pset solution, all AI chats should be closed.)
 
 
 ### Late policy
