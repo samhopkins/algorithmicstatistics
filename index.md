@@ -57,8 +57,9 @@
 ## Course Policies
 
 ### Grading
-
-
+- Homework: 60%
+- Project proposal: 10%
+- Final porject: 30%
 
 ### Collaboration policy
 
