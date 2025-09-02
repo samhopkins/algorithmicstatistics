@@ -12,7 +12,7 @@
 
 ### Instructor
 - [Sam Hopkins](https://www.samuelbhopkins.com)
-- Office Hours: TBA
+- Office Hours: Monday 4-5 pm
 
 ### TA
 - [Ittai Rubinstein](https://ittairubinstein.bitbucket.io/)
