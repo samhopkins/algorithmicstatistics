@@ -25,7 +25,7 @@
 
 | Lecture number | Date     | Lecture topic                                                                                | Notes | Video | Due dates |
 | -------------- | -------- | -------------------------------------------------------------------------------------------- | ----- | ----- | --------- |
-| 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](resources/lectures/lecture-1-introduction.pdf) |       |           |
+| 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](resources/lectures/lecture-1-introduction.pdf) | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1130119-2c3f-436a-b4e1-b34a0084baca)      |           |
 | 2              | 9/8/25   | overview, linear and logistic regression, start sparse regression                            | [draft](resources/lectures/lecture-2-overview-and-linear-predictors.pdf) |       |           |
 | 3              | 9/10/25  | sparse regression, compressed sensing                                                        | [Moitra book](https://www.cambridge.org/core/books/algorithmic-aspects-of-machine-learning/165FD1899783C6D7162235AE405685DB), Ch. 5 |       | **PSET 1 out** |
 | 4              | 9/15/25  | learning a gaussian and a product distribution -- tv versus parameter learning               |       |       |           |
