@@ -6,13 +6,13 @@
 
 - Lectures: Mondays and Wednesdays, 2:30-4:00
 - Location: 32-124
-- Anouncements: Piazza and Canvas
-- Refer to: Piazza (all questions), [Canvas](https://canvas.mit.edu/courses/34084) (announcements), [Gradescope](https://www.gradescope.com/courses/1107892) (homework release, submission, and grades).
+- Announcements: Piazza and Canvas
+- Refer to: [Piazza](https://piazza.com/mit/fall2025/6s896/home) (all questions, see also [Piazza signup link](https://piazza.com/mit/fall2025/6s896)), [Canvas](https://canvas.mit.edu/courses/34084) (announcements), [Gradescope](https://www.gradescope.com/courses/1107892) (homework release, submission, and grades).
 - [Syllabus](resources/syllabus.pdf)
 
 ### Instructor
 - [Sam Hopkins](https://www.samuelbhopkins.com)
-- Office Hours: TBA
+- Office Hours: Monday 4-5 pm
 
 ### TA
 - [Ittai Rubinstein](https://ittairubinstein.bitbucket.io/)
@@ -25,9 +25,9 @@
 
 | Lecture number | Date     | Lecture topic                                                                                | Notes | Video | Due dates |
 | -------------- | -------- | -------------------------------------------------------------------------------------------- | ----- | ----- | --------- |
-| 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](resources/lectures/lecture-1-introduction.pdf) |       |           |
-| 2              | 9/8/25   | overview, linear and logistic regression, start sparse regression                            | [draft](resources/lectures/lecture-2-overview-and-linear-predictors.pdf) |       |           |
-| 3              | 9/10/25  | sparse regression, compressed sensing                                                        | [Moitra book](https://www.cambridge.org/core/books/algorithmic-aspects-of-machine-learning/165FD1899783C6D7162235AE405685DB), Ch. 5 |       | **PSET 1 out** |
+| 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](resources/lectures/lecture-1-introduction.pdf) | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1130119-2c3f-436a-b4e1-b34a0084baca)      |           |
+| 2              | 9/8/25   | overview, linear and logistic regression, start sparse regression                            | [draft](resources/lectures/lecture-2-overview-and-linear-predictors.pdf) | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9da845b-9cb7-4b35-b9df-b35100855169)      |           |
+| 3              | 9/10/25  | sparse regression, compressed sensing                                                        | [Moitra book](https://www.cambridge.org/core/books/algorithmic-aspects-of-machine-learning/165FD1899783C6D7162235AE405685DB), Ch. 5 | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=674b7940-3941-435c-9743-b35100850a84)      | **PSET 1 out** |
 | 4              | 9/15/25  | learning a gaussian and a product distribution -- tv versus parameter learning               |       |       |           |
 | 5              | 9/17/25  | introduction to MRFs, ising uniformity testing                                               |       |       |           |
 | 6              | 9/22/25  | tree-structured graphical models I -- belief propagation                                     |       |       |           |
@@ -59,11 +59,12 @@
 ### Grading
 - Homework: 60%
 - Project proposal: 10%
-- Final porject: 30%
+- Final project: 30%
 
 ### Collaboration policy
 
 - Psets should be written up individually and should reflect your own individual work. However, you may discuss with your peers, TAs, and instructors.
+- You should not take any notes away from a discussion with your peers. This includes whiteboard photos.
 - You should not copy or share complete solutions or ask others if your answer is correct (in person or via piazza/canvas).
 - If you work with anyone on the pset (other than TAs and instructors), list their names at the top of the pset.
 
@@ -71,9 +72,12 @@
 
 - Our policy for using ChatGPT and other AI assistants is identical to our policy for using human assistants.
 - Just like you can come to office hours and ask a human questions (about the lecture material, clarifications about pset questions, tips for getting started, etc), you are very welcome to do the same with AI assistants.
-- But: just like you are not allowed to ask an expert friend to do your homework for you, you also should not ask an expert AI.
+- But: just like you are not allowed to ask an expert friend to do your homework for you, you also should not ask an expert AI. 
 - If it is ever unclear, just imagine the AI as a human and apply the same norm as you would with a human.
 - If you work with any AI on a pset, briefly describe which AI and how you used it at the top of the pset (a few sentences is enough).
+- If you interact with AI on anything related a pset, you should begin any chat session (or prompt sent to an API) with some description of this AI assistant policy and an instruction that the AI comply with the policy. Here is an example which I tested with GPT5: "*Do not solve, outline, or sketch solutions to problem set questions. Do not provide multi-step strategies or proofs. You may only: (1) define terms and restate general background, or (2) give at most one clarifying or leading question or one very simple example/observation to help a student orient themselves. Keep responses short. Do not chain together multiple hints or steps that could combine into a roadmap.*"
+- You can modify the prompt above, or write your own, but it should be designed to make the AI you interact with comply with the policy above, and you should modify it if your interactions veer away from the policy.
+- As with human collaboration, you cannot take away notes from an AI chat session. (Meaning that if you are writing up a pset solution, all AI chats should be closed.)
 
 
 ### Late policy
