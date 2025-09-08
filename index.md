@@ -6,8 +6,8 @@
 
 - Lectures: Mondays and Wednesdays, 2:30-4:00
 - Location: 32-124
-- Anouncements: Piazza and Canvas
-- Refer to: Piazza (all questions), [Canvas](https://canvas.mit.edu/courses/34084) (announcements), [Gradescope](https://www.gradescope.com/courses/1107892) (homework release, submission, and grades).
+- Announcements: Piazza and Canvas
+- Refer to: [Piazza](https://piazza.com/mit/fall2025/6s896/home) (all questions, see also [Piazza signup link](https://piazza.com/mit/fall2025/6s896)), [Canvas](https://canvas.mit.edu/courses/34084) (announcements), [Gradescope](https://www.gradescope.com/courses/1107892) (homework release, submission, and grades).
 - [Syllabus](resources/syllabus.pdf)
 
 ### Instructor
@@ -26,8 +26,8 @@
 | Lecture number | Date     | Lecture topic                                                                                | Notes | Video | Due dates |
 | -------------- | -------- | -------------------------------------------------------------------------------------------- | ----- | ----- | --------- |
 | 1              | 9/3/25   | intro, le cam, uniformity testing lower bound                                                | [draft](resources/lectures/lecture-1-introduction.pdf) | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1130119-2c3f-436a-b4e1-b34a0084baca)      |           |
-| 2              | 9/8/25   | overview, linear and logistic regression, start sparse regression                            | [draft](resources/lectures/lecture-2-overview-and-linear-predictors.pdf) |       |           |
-| 3              | 9/10/25  | sparse regression, compressed sensing                                                        | [Moitra book](https://www.cambridge.org/core/books/algorithmic-aspects-of-machine-learning/165FD1899783C6D7162235AE405685DB), Ch. 5 |       | **PSET 1 out** |
+| 2              | 9/8/25   | overview, linear and logistic regression, start sparse regression                            | [draft](resources/lectures/lecture-2-overview-and-linear-predictors.pdf) | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9da845b-9cb7-4b35-b9df-b35100855169)      |           |
+| 3              | 9/10/25  | sparse regression, compressed sensing                                                        | [Moitra book](https://www.cambridge.org/core/books/algorithmic-aspects-of-machine-learning/165FD1899783C6D7162235AE405685DB), Ch. 5 | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=674b7940-3941-435c-9743-b35100850a84)      | **PSET 1 out** |
 | 4              | 9/15/25  | learning a gaussian and a product distribution -- tv versus parameter learning               |       |       |           |
 | 5              | 9/17/25  | introduction to MRFs, ising uniformity testing                                               |       |       |           |
 | 6              | 9/22/25  | tree-structured graphical models I -- belief propagation                                     |       |       |           |
