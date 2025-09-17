@@ -16,7 +16,7 @@
 
 ### TA
 - [Ittai Rubinstein](https://ittairubinstein.bitbucket.io/)
-- Office Hours: Wednesday 1-2 pm | 09/10/2025: OH over [zoom](https://mit.zoom.us/j/95606545858).
+- Office Hours: Wednesday 1-2 pm | Over [zoom](https://mit.zoom.us/j/95606545858).
 
 
 ## Class Schedule
