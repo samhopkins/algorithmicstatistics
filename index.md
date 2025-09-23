@@ -18,6 +18,10 @@
 - [Ittai Rubinstein](https://ittairubinstein.bitbucket.io/)
 - Office Hours: Wednesday 1-2 pm | Over [zoom](https://mit.zoom.us/j/95606545858).
 
+### Course project
+
+- [Description](resources/project-description.pdf)
+
 
 ## Class Schedule
 
