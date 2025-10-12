@@ -39,12 +39,12 @@
 | 8              | 9/29/25  | parameter learning MRFs                                                                      | [draft](resources/lectures/lecture-8-mrf-structure-learning.pdf)      | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf591dcb-9844-4f9c-b82f-b36600853337)       |           |
 | 9              | 10/1/25  | tv learning MRFs, tournament                                                                 | [draft](resources/lectures/lecture-9-tournament.pdf)      | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd945122-5c77-42ba-93ba-b3660085405e)      |           |
 | 10             | 10/6/25  | kesten-stigum bound, temperature                                                             | [draft](resources/lectures/lecture-10-kesten-stigum.pdf)      | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c0b0a7e-f12f-46ed-b122-b36d0085600b)      |           |
-| 11             | 10/8/25  | svd, pca, best rank-one approximation                                        |       |       | **PSET 2 due / PSET 3 out** |
-| 12             | 10/15/25 | verifying distribution properties                                        |       |       |           |
-| 13             | 10/20/25 | spectral clustering I: gaussian mixtures                                                     |       |       |           |
-| 14             | 10/22/25 | spectral clustering II: stochastic block model                                               |       |       | **PSET 3 due / PSET 4 out** |
-| 15             | 10/27/25 | stochastic block model robustness and ultra-sparse regime -- grothendieck inequality and sdp |       |       |           |
-| 16             | 10/29/25 | matrix completion                                                                            |       |       |           |
+| 11             | 10/8/25  | svd, pca, best rank-one approximation, spectral clustering for gaussian mixtures             | [draft](resources/lectures/lecture-11-svd-gaussian-mixtures.pdf)      | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58623ab0-da34-4df4-9a3d-b36d008553f4)      | **PSET 2 due / PSET 3 out** |
+| 12             | 10/15/25 | verifying distribution properties                                                            |       |       |           |
+| 13             | 10/20/25 | matrix completion                                                                            | [draft](resources/lectures/lecture-13-matrix-completion.pdf)      |       |           |
+| 14             | 10/22/25 | spectral clustering II: stochastic block model                                               | [draft](resources/lectures/lecture-14-15-sbm-grothendieck.pdf)      |       | **PSET 3 due / PSET 4 out** |
+| 15             | 10/27/25 | stochastic block model robustness and ultra-sparse regime (ZOOM CLASS -- Sam traveling)      | [draft](resources/lectures/lecture-14-15-sbm-grothendieck.pdf)      |       |           |
+| 16             | 10/29/25 | NO CLASS -- (Sam traveling)                                                                  |       |       |           |
 | 17             | 11/3/25  | tensor decomposition I: Jenrich's algorithm                                                  |       |       |           |
 | 18             | 11/5/25  | tensor decomposition II: ICA, HMMs, and friends                                              |       |       | **PSET 4 due** |
 | 19             | 11/12/25 | robust mean estimation via filter                                                            |       |       |           |
