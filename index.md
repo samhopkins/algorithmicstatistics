@@ -45,7 +45,7 @@
 | 13             | 10/20/25 | matrix completion                                                                            | [draft](resources/lectures/lecture-13-matrix-completion.pdf)      |       |           |
 | 14             | 10/22/25 | spectral clustering II: stochastic block model                                               | [draft](resources/lectures/lecture-14-15-sbm-grothendieck.pdf)      |       |  |
 | 15             | 10/27/25 | stochastic block model robustness and ultra-sparse regime (ZOOM CLASS -- Sam traveling)      | [draft](resources/lectures/lecture-14-15-sbm-grothendieck.pdf)      |       |           |
-| 16             | 10/29/25 | NO CLASS -- (Sam traveling)                                                                  |       |       |           **PSET 3 due / PSET 4 out**|
+| 16             | 10/29/25 | NO CLASS -- (Sam traveling)                                                                  |       |       |           **PSET 3 due / [PSET 4 out](resources/PSETS_2025/PSET4.pdf)**|
 | 17             | 11/3/25  | tensor decomposition I: Jenrich's algorithm                                                  |       |       |           |
 | 18             | 11/5/25  | tensor decomposition II: ICA, HMMs, and friends                                              |       |       | |
 | 19             | 11/12/25 | robust mean estimation via filter                                                            |       |       |           |
