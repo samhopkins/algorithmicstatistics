@@ -52,7 +52,7 @@
 | 20             | 11/17/25 | robust learning ising models                                                                 |       |       |           **PSET 4 due** |
 | 21             | 11/19/25 | SQ I                                                                                         |       |       | **Project proposal due** |
 | 22             | 11/24/25 | SQ II -- friends of SQ including low degree, overlap gap, SoS                                |       |       |           |
-| 23             | 11/26/25 | planted clique -- robust sparse mean estimation                                              |       |       |           |
+| 23             | 11/26/25 | planted clique -- robust sparse mean estimation (NO IN-PERSON CLASS -- lecture video will be posted) |       |       |           |
 | 24             | 12/1/25  | lwe reduction??                                                                              |       |       |           |
 | 25             | 12/3/25  | (sam traveling -- possibly cancel class or rehearse presentations)                           |       |       |           |
 | 26             | 12/8/25  | project presentations                                                                        |       |       |           |
