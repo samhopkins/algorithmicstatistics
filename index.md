@@ -51,7 +51,7 @@
 | 19             | 11/12/25 | robust mean estimation via filter                                                            |       | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33667d49-767a-45ea-8c04-b390008522df) |           |
 | 20             | 11/17/25 | applications of robust mean estimation: high probability estimation and differential privacy |       | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6fb8a90-fd15-4bf4-9d78-b39700856383) |           **PSET 4 due** |
 | 21             | 11/19/25 | low degree hardness I                                                                        |       | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=401250a6-1ddf-488c-b6a2-b39700856f06) | **Project proposal due** |
-| 22             | 11/24/25 | SQ II -- friends of SQ including low degree, overlap gap, SoS                                |       |       |           |
+| 22             | 11/24/25 | low degree hardness II, start planted clique reductions                                      |       | [panopto](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dd27e14-40ba-46f2-8157-b39e00850944) |           |
 | 23             | 11/26/25 | planted clique -- robust sparse mean estimation (NO IN-PERSON CLASS -- lecture video will be posted) |       |       |           |
 | 24             | 12/1/25  | lwe reduction??                                                                              |       |       |           |
 | 25             | 12/3/25  | (sam traveling -- possibly cancel class or rehearse presentations)                           |       |       |           |
