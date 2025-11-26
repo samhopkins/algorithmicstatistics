@@ -56,7 +56,8 @@
 | 24             | 12/1/25  | lwe reduction??                                                                              |       |       |           |
 | 25             | 12/3/25  | (sam traveling -- possibly cancel class or rehearse presentations)                           |       |       |           |
 | 26             | 12/8/25  | project presentations                                                                        |       |       |           |
-| 27             | 12/10/25 | project presentations                                                                        |       |       | **Final project due** |
+| 27             | 12/10/25 | project presentations                                                                        |       |       |           |
+|                | 12/15/25 |                                                                                              |       |       | **Final project due** |
 
 
 ## Course Policies
